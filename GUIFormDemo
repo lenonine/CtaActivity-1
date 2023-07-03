@@ -27,7 +27,7 @@ public class GUIFormDemo implements ActionListener {
 	JPanel pbutton = new JPanel();
 	JPanel p6 = new JPanel();
 
-JButton b1 = new JButton("CALCULATE");
+	JButton b1 = new JButton("CALCULATE");
 
 	JTextField f1 = new JTextField(10);
 	JTextField f2 = new JTextField(10);
