@@ -57,7 +57,7 @@ JButton b1 = new JButton("CALCULATE");
 		p5.add(f5);
 		
 
-    pbutton.add(b1);
+   		pbutton.add(b1);
 
 		p2.add(ltotal);
 		p2.add(l6);
